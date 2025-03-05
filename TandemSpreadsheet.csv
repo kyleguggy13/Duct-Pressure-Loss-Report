@@ -1,0 +1,3 @@
+Device Name,Building Occupancy Persons,Co2 ppm,Equipment Running,Humidity Percent,Temperature Celsius,Room Air Quality
+SimDevice-1,320,540.25,TRUE,38.5,20.5,good
+SimDevice-2,275,532.78,FALSE,42.1,19.8,poor
